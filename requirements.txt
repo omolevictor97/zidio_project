@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+keras-tuner
+tensorflow
+matplotlib
+seaborn
+notebook
+ipykernel
+tqdm
+gunicorn
+streamlit
+plotly
